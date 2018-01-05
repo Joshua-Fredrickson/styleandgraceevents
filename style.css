@@ -31,7 +31,7 @@ body{
     padding: .5%;
 }
 
-#business-name {
+#page-title {
     display: inline-block;
     font-family: 'Tangerine', cursive;
     }
@@ -53,4 +53,15 @@ h2 {
 
 p {
     display: inline-block;
+}
+
+#our-story-photo {
+    background-color: black;
+    width: 50%;
+    height: 25%;
+    margin-left: 20%;
+}
+
+#josh-lacey {
+    padding: 15px;
 }
