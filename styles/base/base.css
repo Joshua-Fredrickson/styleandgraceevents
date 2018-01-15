@@ -1,7 +1,7 @@
 body {
     display: flex;
     color: white;
-    background-image: url("https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/images/statedinnerrosegarden.jpeg")
+    background-color:wheat;
 }
 
 a {
@@ -12,31 +12,17 @@ ul {
     list-style-type: none;
 }
 
-nav {
-    display: inline-block;
-    position: fixed;
-    vertical-align: 0%;
-    width: 100%;
-    font-family: 'Titillium Web', sans-serif; 
-    color: white;
-    background-color: rgba(0, 0, 0, .75);
-}
-
 body{
     display: inherit;
-}
-#nav-elem {
-    float: right;
-    margin-right: 15px;
-    padding: .5%;
 }
 
 #page-title {
     display: inline-block;
-    font-family: 'Tangerine', cursive;
+    font-family: 'Playfair Display SC', serif;
     }
 
 h1 {
+    width:100%;
     text-align: center;
     margin-bottom: 5px;
     border: 10px;
@@ -65,3 +51,22 @@ p {
 #josh-lacey {
     padding: 10px;
 }
+
+img {
+    max-width: 100%;
+  }
+  
+  body {
+    line-height: 1.5;
+    font-size: 100%;
+    color: #313131;
+  }
+  
+  main {
+    margin: 0 20px;
+  }
+  
+  hr {
+    margin: 1em;
+    width: 80%;
+  }

@@ -1,0 +1,52 @@
+@media only screen and (max-width: 640px) {
+    nav{
+      padding: .1em .1em .1em 2em;
+      float: none;
+    }
+
+    nav-elem {
+        padding: .1em .1em -1em 2em;
+        margin-right: 5%;
+    
+    }
+
+    a, a:link, a:active, a:hover {
+        text-decoration: none;
+        color: #777;
+      }
+      
+      a:click {
+        color: rgb(253, 253, 253);
+      }
+    
+    
+}
+
+nav {
+    float:right;
+    width:100%;
+    font-family: 'Playfair Display', serif;
+    background-color: rgba(0, 0, 0, .75);
+}
+
+.nav-elem {
+    float:right .4em;
+    font-size: 1.5em;
+    padding: .5em .2em;
+  }
+}
+
+
+
+
+
+
+
+a, a:link, a:active {
+    text-decoration: none;
+    color: #777;
+  }
+  
+  a:hover, a:focus {
+    color: rgb(253, 253, 253);
+  }
