@@ -5,6 +5,7 @@
     }
 
     nav-elem {
+        display: hidden;
         padding: .1em .1em -1em 2em;
         margin-right: 5%;
     
