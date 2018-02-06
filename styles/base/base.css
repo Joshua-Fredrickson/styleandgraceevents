@@ -1,72 +1,77 @@
-body {
-    display: flex;
-    color: white;
-    background-color:wheat;
-}
 
-a {
-    color: white;
-    text-decoration-line: none;
-}
-ul {
-    list-style-type: none;
-}
+@media only screen and (max-width:632px) {
 
-body{
-    display: inherit;
-}
-
-#page-title {
-    display: inline-block;
-    font-family: 'Playfair Display SC', serif;
+    body {
+        display: flex;
+        color: white;
+        background-color:wheat;
     }
 
-h1 {
-    width:100%;
-    text-align: center;
-    margin-bottom: 5px;
-    border: 10px;
-    padding: 5px;
-    font-weight: bold;
-    font-size: 5em;
-}
+    a {
+        color: white;
+        text-decoration-line: none;
+    }
+    ul {
+        list-style-type: none;
+    }
 
-h2 {
-    text-align: center;
-    margin-top: 5px;
-    padding: 5px;
-}
+    body{
+        display: inherit;
+    }
 
-p {
-    display: inline-block;
-}
+    #page-title {
+        display: inline-block;
+        font-family: 'Playfair Display SC', serif;
+        }
 
-#our-story-photo {
-    background-color: black;
-    width: 50%;
-    height: 25%;
-    margin-left: 20%;
-}
+    h1 {
+        width:100%;
+        text-align: center;
+        margin-bottom: 5px;
+        border: 10px;
+        padding: 5px;
+        font-weight: bold;
+        font-size: 5em;
+    }
 
-#josh-lacey {
-    padding: 10px;
-}
+    h2 {
+        text-align: center;
+        margin-top: 5px;
+        padding: 5px;
+    }
 
-img {
-    max-width: 100%;
-  }
-  
-  body {
-    line-height: 1.5;
-    font-size: 100%;
-    color: #313131;
-  }
-  
-  main {
-    margin: 0 20px;
-  }
-  
-  hr {
-    margin: 1em;
-    width: 80%;
-  }
+    p {
+        display: inline-block;
+    }
+
+    #our-story-photo {
+        background-color: black;
+        width: 50%;
+        height: 25%;
+        margin-left: 20%;
+    }
+
+    #josh-lacey {
+        padding: 10px;
+    }
+
+    img {
+        max-width: 100%;
+    }
+    
+    body {
+        line-height: 1.5;
+        font-size: 100%;
+        color: #313131;
+    }
+    
+    main {
+        margin: 0 20px;
+    }
+    
+    hr {
+        margin: 1em;
+        width: 80%;
+    }
+
+};
