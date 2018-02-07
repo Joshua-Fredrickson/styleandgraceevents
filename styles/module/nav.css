@@ -1,26 +1,35 @@
-@media only screen and (max-width: 640px) {
-    nav{
-      padding: .1em .1em .1em 2em;
-      float: none;
-    }
-
-    nav-elem {
-        display: hidden;
-        padding: .1em .1em -1em 2em;
-        margin-right: 5%;
+@media only screen and (max-width: 385px) {
+  nav{
+    padding: .1em .1em .1em 2em;
+    float: none;
+    margin-left: 2%;
+  }
+  
+  .nav-elem {
+    display: none;
+    float:right .4em;
+    font-size: 1.5em;
+    padding: .5em .2em;
+    padding: .1em .1em -1em 2em;
+    margin-right: 5%;
     
-    }
-
-    a, a:link, a:active, a:hover {
-        text-decoration: none;
-        color: #777;
-      }
-      
-      a:click {
-        color: rgb(253, 253, 253);
-      }
-    
-    
+  }
+  
+  a, a:link, a:active, a:hover {
+    text-decoration: none;
+    color: #777;
+  }
+  
+  a:click {
+    color: rgb(253, 253, 253);
+  }
+  
+  #hamburger {
+    margin-left: 10px;
+    font-size: 7vw;
+    color:rgb(245, 222, 179);
+  }
+  
 }
 
 nav {
@@ -30,11 +39,52 @@ nav {
     background-color: rgba(0, 0, 0, .75);
 }
 
-.nav-elem {
+
+
+
+/* a, a:link, a:active {
+    text-decoration: none;
+    color: #777;
+  }
+  
+  a:hover, a:focus {
+    color: rgb(253, 253, 253);
+  } */
+
+
+  @media only screen and (max-width: 780px) and (min-width: 386px) {
+    nav {
+      float:right;
+      width:100%;
+      font-family: 'Playfair Display', serif;
+      background-color: rgba(0, 0, 0, .75);
+      padding: .1em .1em .1em 2em;
+    }
+
+  .nav-elem {
+    display: none;
     float:right .4em;
     font-size: 1.5em;
     padding: .5em .2em;
+    padding: .1em .1em -1em 2em;
+    margin-right: 5%;
   }
+
+  a, a:link, a:active, a:hover {
+    text-decoration: none;
+    color: #777;
+  }
+  
+  a:click {
+    color: rgb(253, 253, 253);
+  }
+      
+  #hamburger {
+    margin-left: 10px;
+    font-size: 4vw;
+    color: rgb(245, 222, 179);
+
+  }    
 }
 
 
@@ -43,11 +93,49 @@ nav {
 
 
 
-a, a:link, a:active {
+
+
+@media only screen and (min-width: 781px) {
+  nav{
+    padding: .1em .1em .1em 2em;
+    float: none;
+    margin-left: 2%;
+  }
+
+  .nav-elem {
+    float:left .4em;
+    font-size: 1.5em;
+    padding: .5em .2em;
+    padding: .1em .1em -1em 2em;
+    margin-right: 5%; 
+  }
+
+  nav li {
+    float: right;
+    padding: .5em;
+    display: inline;
+  }
+
+  a, a:link, a:active, a:hover {
     text-decoration: none;
     color: #777;
   }
-  
-  a:hover, a:focus {
+
+  a:click {
     color: rgb(253, 253, 253);
   }
+
+  #hamburger {
+    margin-left: 10px;
+    font-size: 7vw;
+    color:rgb(245, 222, 179);
+    display:none
+  }
+
+  nav {
+    float:right;
+    width:100%;
+    font-family: 'Playfair Display', serif;
+    background-color: rgba(0, 0, 0, .75);
+  }
+}
