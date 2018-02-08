@@ -1,9 +1,9 @@
 'use strict';
 
-(function () {
+function Blog(author, title, content ) {
+    blogAuthor = author;
+    blogTitle = title;
+    blogContent = content;
+    date = new Date();
+}
 
-    let BlogPost.all = [];
-
-
-
-})
