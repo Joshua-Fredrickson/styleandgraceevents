@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Playfair+Display+SC" rel="stylesheet">
     <link href="styles/base/base.css" rel="stylesheet">
     <link href="styles/module/nav.css" rel="stylesheet">
-    <title>Style &amp; Grace</title>
+    <title>Style &amp; Grace BLOG ENTRY FORM</title>
 </head>
 <body>
     <nav>
@@ -25,12 +25,13 @@
         <h2> Seattle's affordable event rentals</h2>   
     </header>
     <section>
-        <p class="about-us">When my husband and I were planning our July 2017 wedding, I wanted my fairytale wedding, for our friends and family to experience the fairytale of our relationship. It was important to me to give back to our friends and family for their support of our marriage, by treating our guests to a full dinner, so we could celebrate our marriage with them.
-        </p><br><br>
-        <p class="about-us">When researching the cost of event place settings, I experienced sticker shock that the rental price was nearly the price to purchase. It became no wonder how weddings are so expensive, and I wondered how many newlyweds began marriage burdened by the cost of a wedding. I had a brilliant idea that if I purchase my wedding place settings; then I could offer them to budgeting brides and organizations for a cheap price, and we all could benefit from sharing the cost of the place settings, making the cost of a beautiful wedding affordable for all of us!
-        </p>
+        <form>
+            <input class="blog-inputs" id="author" placeholder="Author Name" type="text" required></input>
+            <input class="blog-inputs" id="title" placeholder="blog Title" type="text" size="30" required></input>
+            <textarea class="blog-inputs" id="blog-content" placeholder="blog Content" name="textarea" rows="10" cols="50"></textarea>
+            <button type="submit" name="submit-blog">Submit Blog</button>
+        </form>
     </section>    
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
 </html>
