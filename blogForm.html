@@ -25,10 +25,23 @@
         <h2> Blog Creator </h2>   
     </header>
     <section>
-        <form>
-            <input class="blog-inputs" id="author" placeholder="Author Name" type="text" required></input>
-            <input class="blog-inputs" id="title" placeholder="blog Title" type="text" size="30" required></input>
-            <textarea class="blog-inputs" id="blog-content" placeholder="blog Content" name="textarea" rows="10" cols="50"></textarea>
+        <form id="new-blog">
+            <label>    
+                <input class="blog-inputs" id="blog-author" placeholder="Author Name" type="text" required></input>
+            </label>
+            <label>
+                <input class="blog-inputs" id="blog-title" placeholder="blog Title" type="text" size="30" required></input>
+            </label>
+            <label>
+                <input class="blog-inputs" id="blog-category" placeholder="blog Category" type="text" size="30" required></input>
+            </label>
+            <label>
+                <textarea class="blog-inputs" id="blog-content" placeholder="blog Content" name="textarea" rows="10" cols="50"></textarea>
+            </label>
+            <label>
+                <input type="checkbox" id="published-blog">
+                <span>published?</span>
+            </label>
             <button class="blog-inputs" type="submit" name="submit-blog">Submit Blog</button>
         </form>
     </section>    
