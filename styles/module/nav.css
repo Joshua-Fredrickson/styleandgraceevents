@@ -11,8 +11,11 @@
     font-size: 1.5em;
     padding: .5em .2em;
     padding: .1em .1em -1em 2em;
-    margin-right: 5%;
-    
+    margin-right: 5%; 
+  }
+
+  .nav-elem:hover {
+    display: block;
   }
   
   a, a:link, a:active, a:hover {
