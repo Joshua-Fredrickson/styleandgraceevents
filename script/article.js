@@ -4,7 +4,7 @@ let articles = [];
 
 function Article (rawDataObj) {
     this.author = rawDataObj.author;
-    this.authorUrl = rawDataObj.authorUrl;
+    this.urlLink = rawDataObj.urlLink;
     this.title = rawDataObj.title;
     this.category = rawDataObj.category;
     this.body = rawDataObj.body;
