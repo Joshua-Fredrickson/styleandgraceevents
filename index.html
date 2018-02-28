@@ -4,11 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="vendor/styles/normalize.css">
     <link href="styles/vendor-styles/reset.css" rel='stylesheet'>
     <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Playfair+Display+SC" rel="stylesheet">
-    <link href="styles/base/base.css" rel="stylesheet">
-    <link href="styles/module/nav.css" rel="stylesheet">
+    <link rel="stylesheet" href="vendor/styles/icons.css">
+    <link rel="stylesheet" href="styles/base/base.css">
+    <link rel="stylesheet" href="styles/layout.css">
+    <link rel="stylesheet" href="styles/modules.css">
+    <link rel="stylesheet" href="styles/module/nav.css">
+    <link rel="icon" type="image/x-icon" href="https://avatars2.githubusercontent.com/u/18607604?v=3&s=200">
+    <link rel="stylesheet" href="vendor/styles/railscasts.css">
     <title>Style &amp; Grace</title>
 </head>
 <body>
@@ -30,46 +36,24 @@
         <p class="about-us">When researching the cost of event place settings, I experienced sticker shock that the rental price was nearly the price to purchase. It became no wonder how weddings are so expensive, and I wondered how many newlyweds began marriage burdened by the cost of a wedding. I had a brilliant idea that if I purchase my wedding place settings; then I could offer them to budgeting brides and organizations for a cheap price, and we all could benefit from sharing the cost of the place settings, making the cost of a beautiful wedding affordable for all of us!
         </p>
     </section>    
-    <div id="blog1">
 
-    </div>
-    <div id="blog2">
-
-    </div>
-    <div id="blog1">
-
-    </div>
-    <div id="blog1">
-
-    </div>
-    <div id="blog1">
-
-    </div>
-    <div id="blog1">
-
-    </div>
-    <div id="blog1">
-
-    </div>
-    <div id="blog1">
-
-    </div>
-    <div id="blog1">
-
-    </div>
-    <div id="blog1">
-
-    </div>
-    <div id="blog1">
-
-    </div>
-    <div id="blog1">
-
-    </div>
     
 
+    <footer>
+        &copy; 2018 Style and Grace Events
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
 
-</body>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.6/marked.min.js"></script>
+    <script src="vendor/scripts/highlight.pack.js"></script>
+
+    <script src="scripts/blogArticles.js"></script>
+    <script src="scripts/article.js"></script>
+    <script src="scripts/articleView.js"></script>
+
+    <script>
+      articleView.initNewArticlePage();
+    </script>
+  </body>
 </html>
