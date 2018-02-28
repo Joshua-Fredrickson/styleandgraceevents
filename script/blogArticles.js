@@ -1,6 +1,3 @@
-<br><br><a href="https://www.amazon.com/dp/B00PV6GAI4/ref=asc_df_B00PV6GAI45386303/?tag=hyprod-20&creative=395033&creativeASIN=B00PV6GAI4&linkCode=df0&hvadid=167139094796&hvpos=1o2&hvnetw=g&hvrand=10779886359969729361&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033313&hvtargid=pla-304998734550"> Amazon link </a>'
-
-
 'use stict';
 
 let rawData = [
@@ -101,12 +98,12 @@ let rawData = [
       body:        '<p>Hey guys, I think my Sonicare Diamond is going out. I saw a DEAL for a new Sonicare. I bought it, had it gifted to me for Christmas. To my amazement, it cleans my teeth as well as the Sonicare Diamond, at one-seventh of the price! Read my full review here: <a href="https://www.amazon.com/review/R6HLNKEM1WZEF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8"> https://www.amazon.com/review/R6HLNKEM1WZEF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8 </a></p>'
     },
     {
-      title:       'Baby Aston Comes Home',
-      category:    'Baby',
+      title:       'Tactical Flashlight Review',
+      category:    'Camping',
       author:      'Lacey Fredrickson',
-      urlLink:   '',
-      publishedOn: '2018-02-23',
-      body:        '<p>We brought our sweet baby Aston home, and realized how much we needed. Commence buying all the things for baby, including cloth diapers on Amazon, the best value.</p>'
+      urlLink:   'https://www.amazon.com/review/RPM8PHI65BIBF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8',
+      publishedOn: '2018-02-25',
+      body:        '<p>The newest addition to our family’s camping collection, I ordered this just in time for our latest camping trip. I’ve never seen such a powerful flashlight, and it comes with a rechargeable battery and battery charger. The problem is our 14 year old seems to have dibs on this flashlight, so I might not get to use is as intended. I’m now ordering headlamps for each of us. Read my full flashlight review here: <a href="https://www.amazon.com/review/RPM8PHI65BIBF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8"> https://www.amazon.com/review/RPM8PHI65BIBF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8 </a></p>'
     },
     {
       title:       'Baby Aston Comes Home',
