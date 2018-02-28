@@ -105,29 +105,4 @@ let rawData = [
       publishedOn: '2018-02-25',
       body:        '<p>The newest addition to our family’s camping collection, I ordered this just in time for our latest camping trip. I’ve never seen such a powerful flashlight, and it comes with a rechargeable battery and battery charger. The problem is our 14 year old seems to have dibs on this flashlight, so I might not get to use is as intended. I’m now ordering headlamps for each of us. Read my full flashlight review here: <a href="https://www.amazon.com/review/RPM8PHI65BIBF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8"> https://www.amazon.com/review/RPM8PHI65BIBF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8 </a></p>'
     },
-    {
-      title:       'Baby Aston Comes Home',
-      category:    'Baby',
-      author:      'Lacey Fredrickson',
-      urlLink:   '',
-      publishedOn: '2018-02-23',
-      body:        '<p>We brought our sweet baby Aston home, and realized how much we needed. Commence buying all the things for baby, including cloth diapers on Amazon, the best value.</p>'
-    },
-    {
-      title:       'Baby Aston Comes Home',
-      category:    'Baby',
-      author:      'Lacey Fredrickson',
-      urlLink:   '',
-      publishedOn: '2018-02-23',
-      body:        '<p>We brought our sweet baby Aston home, and realized how much we needed. Commence buying all the things for baby, including cloth diapers on Amazon, the best value.</p>'
-    },
-    {
-      title:       'Baby Aston Comes Home',
-      category:    'Baby',
-      author:      'Lacey Fredrickson',
-      urlLink:   '',
-      publishedOn: '2018-02-23',
-      body:        '<p>We brought our sweet baby Aston home, and realized how much we needed. Commence buying all the things for baby, including cloth diapers on Amazon, the best value.</p>'
-    },
-    
 ]
