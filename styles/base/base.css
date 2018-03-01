@@ -18,9 +18,13 @@ ul {
 
 body{
     display: inherit;
+    margin: 10px;
     width: 100%;
 }
 
+em {
+    color: black;
+}
 #page-title {
     display: inline-block;
     font-family: 'Playfair Display SC', serif;
