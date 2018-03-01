@@ -4,6 +4,10 @@ body {
     background-color:rgb(245, 222, 179);
 }
 
+nav {
+    display: none;
+}
+
 a {
     color: white;
     text-decoration-line: none;
