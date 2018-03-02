@@ -33,6 +33,14 @@
     color:rgb(245, 222, 179);
   }
   
+  #title-img {
+    margin: 10%;
+    width: 75%;
+  }
+
+  .article-body {
+    margin: 20px;
+  }
 }
 
 nav {
@@ -43,9 +51,6 @@ nav {
 }
 
 
-.article-body {
-  margin: 20px;
-}
 
 /* a, a:link, a:active {
     text-decoration: none;
@@ -93,6 +98,11 @@ nav {
   
   .article-body {
     margin: 20px;
+  }
+
+  #title-img {
+    margin: 15%;
+    width: 50%;
   }
 
 }
@@ -152,4 +162,11 @@ nav {
   .article-body {
     margin: 20px;
   }
+
+  #title-img {
+    margin-left:5%;
+    margin-right: 5%;
+    width: 25%;
+  }
+
 }
