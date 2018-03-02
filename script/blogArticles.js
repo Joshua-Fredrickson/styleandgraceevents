@@ -7,7 +7,7 @@ let rawData = [
       author:      'Lacey Fredrickson',
       urlLink:   'https://www.amazon.com/review/RPM8PHI65BIBF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8',
       publishedOn: '2018-02-25',
-      body:        '<p>The newest addition to our family’s camping collection, I ordered this just in time for our latest camping trip. I’ve never seen such a powerful flashlight, and it comes with a rechargeable battery and battery charger. The problem is our 14 year old seems to have dibs on this flashlight, so I might not get to use is as intended. I’m now ordering headlamps for each of us. </p><p><br><br>Read my full flashlight review <a href="https://www.amazon.com/review/RPM8PHI65BIBF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8"> <em>here</em></a></p>'
+      body:        '<p>The newest addition to our family’s camping collection, I ordered this just in time for our latest camping trip. I’ve never seen such a powerful flashlight, and it comes with a rechargeable battery and battery charger. The problem is our 14 year old seems to have dibs on this flashlight, so I might not get to use is as intended. I’m now ordering headlamps for each of us. </p><p><br><br><a href="https://www.amazon.com/review/RPM8PHI65BIBF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8"> <em>Read my full flashlight review here</em></a></p>'
     },
     {
       title:       'Really affordable Sonicare Toothbrush Review',
@@ -15,7 +15,7 @@ let rawData = [
       author:      'Lacey Fredrickson',
       urlLink:   'https://www.amazon.com/review/R6HLNKEM1WZEF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8',
       publishedOn: '2018-02-23',
-      body:        '<p>Hey guys, I think my Sonicare Diamond is going out. I saw a DEAL for a new Sonicare. I bought it, had it gifted to me for Christmas. To my amazement, it cleans my teeth as well as the Sonicare Diamond, at one-seventh of the price! </p><p><br><br> Read my full review  <a href="https://www.amazon.com/review/R6HLNKEM1WZEF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8"> <em>here</em> </a></p>'
+      body:        '<p>Hey guys, I think my Sonicare Diamond is going out. I saw a DEAL for a new Sonicare. I bought it, had it gifted to me for Christmas. To my amazement, it cleans my teeth as well as the Sonicare Diamond, at one-seventh of the price! </p><p><br><br>   <a href="https://www.amazon.com/review/R6HLNKEM1WZEF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8"> <em>Read my full review here</em> </a></p>'
     },
     {
       title:       'Black and White Buffalo Check Flannel for Me',
@@ -23,7 +23,7 @@ let rawData = [
       author:      'Lacey Fredrickson',
       urlLink:   'https://www.amazon.com/review/R3BJ3BPDMG74N4/ref=cm_cr_srp_d_rdp_perm?ie=UTF8',
       publishedOn: '2018-02-23',
-      body:        '<p>I saw this flannel on What Kristin Found, and I wanted one to re-create her outfit. I ordered a bit large, but it was so impressive and warm, it’s one of m new favorite items. </p><p><br><br>Read my full review <a href="https://www.amazon.com/review/R3BJ3BPDMG74N4/ref=cm_cr_srp_d_rdp_perm?ie=UTF8"><em>here</em> </a></p>'
+      body:        '<p>I saw this flannel on What Kristin Found, and I wanted one to re-create her outfit. I ordered a bit large, but it was so impressive and warm, it’s one of m new favorite items. </p><p><br><br><a href="https://www.amazon.com/review/R3BJ3BPDMG74N4/ref=cm_cr_srp_d_rdp_perm?ie=UTF8"><em>Read my full review here</em> </a></p>'
     },
     {
       title:       'That Babyproofing Life',
@@ -31,7 +31,7 @@ let rawData = [
       author:      'Lacey Fredrickson',
       urlLink:   'https://www.amazon.com/review/R3BRD0WLY66OHA/ref=cm_cr_srp_d_rdp_perm?ie=UTF8',
       publishedOn: '2018-02-21',
-      body:        '<p>OWith an active 9 month old, it was time to keep him out of the cupboard. Particularly because he was opening drawers and doors, flinging items around the kitchen. The first baby proofing set we got from my mother-in-law didn’t work, because our cupboards wouldn’t fit the latch. Someone suggested magnetic locks, but the first set we got from our neighborhood Buy Nothing required the locks to be screwed in. We resorted to buying magnetic locks on Amazon and only regret waiting. </p><p><br><br> Read the full review <a href="https://www.amazon.com/review/R3BRD0WLY66OHA/ref=cm_cr_srp_d_rdp_perm?ie=UTF8"><em>here</em></a></p>'
+      body:        '<p>OWith an active 9 month old, it was time to keep him out of the cupboard. Particularly because he was opening drawers and doors, flinging items around the kitchen. The first baby proofing set we got from my mother-in-law didn’t work, because our cupboards wouldn’t fit the latch. Someone suggested magnetic locks, but the first set we got from our neighborhood Buy Nothing required the locks to be screwed in. We resorted to buying magnetic locks on Amazon and only regret waiting. </p><p><br><br><a href="https://www.amazon.com/review/R3BRD0WLY66OHA/ref=cm_cr_srp_d_rdp_perm?ie=UTF8"><em>Read my full review here</em></a></p>'
     },
     {
       title:       'Baby Aston Comes Home',
