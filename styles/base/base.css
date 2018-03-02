@@ -52,7 +52,10 @@ h2 {
 
 p {
     display: inline-block;
+    margin-right: 25px;
 }
+
+
 
 #our-story-photo {
     background-color: black;
