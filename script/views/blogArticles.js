@@ -7,7 +7,7 @@ let rawData = [
     author:      'Lacey Fredrickson',
     urlLink:   'https://www.amazon.com/dp/B077BRMS1F/ref=cm_sw_r_cp_api_cnzOAbE5A2PM0',
     publishedOn: '2018-03-08',
-    body:        '<img src="./assets/IMG_9508.jpeg" width="24%"><img src="./assets/IMG_9518.jpeg" width="24%"><img src="./assets/FullSizeRender.jpeg" width="24%"><p>I took baby on a walk through Ballard this afternoon; I wore my new top. Guys, this too is awesome! It fits true to size and is fitted in a way that follows your curves to give you a flattering feminine shape, without needing to be tight, in a well-tailored kind of way. The blush color has slightly more color than pictured, which is awesome to not wash you out, while being on trend for spring 2018.</p><p> <a href="https://www.amazon.com/dp/B077BRMS1F/ref=cm_sw_r_cp_api_cnzOAbE5A2PM0"> <em>Read my full review here</em></a></p>'
+    body:        '<img src="./assets/IMG_9508.jpeg" width="24%" style="display: inline;"> <img src="./assets/IMG_9518.jpeg" width="24%" style="display: inline;"> <img src="./assets/FullSizeRender.jpeg" width="24%" style="display: inline;"><p>I took baby on a walk through Ballard this afternoon; I wore my new top. Guys, this too is awesome! It fits true to size and is fitted in a way that follows your curves to give you a flattering feminine shape, without needing to be tight, in a well-tailored kind of way. The blush color has slightly more color than pictured, which is awesome to not wash you out, while being on trend for spring 2018.<br> <br> <a href="https://www.amazon.com/dp/B077BRMS1F/ref=cm_sw_r_cp_api_cnzOAbE5A2PM0"> <em><b>Read my full review here<b></em></a></p>'
   },  
   {
     title:       'Tactical Flashlight Review',
@@ -15,7 +15,7 @@ let rawData = [
     author:      'Lacey Fredrickson',
     urlLink:   'https://www.amazon.com/review/RPM8PHI65BIBF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8',
     publishedOn: '2018-02-25',
-    body:        '<p>The newest addition to our family’s camping collection, I ordered this just in time for our latest camping trip. I’ve never seen such a powerful flashlight, and it comes with a rechargeable battery and battery charger. The problem is our 14 year old seems to have dibs on this flashlight, so I might not get to use is as intended. I’m now ordering headlamps for each of us. </p><p><a href="https://www.amazon.com/review/RPM8PHI65BIBF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8" target="_blank" > <em>Read my full flashlight review here</em></a></p>'
+    body:        '<p>The newest addition to our family’s camping collection, I ordered this just in time for our latest camping trip. I’ve never seen such a powerful flashlight, and it comes with a rechargeable battery and battery charger. The problem is our 14 year old seems to have dibs on this flashlight, so I might not get to use is as intended. I’m now ordering headlamps for each of us. <br> <br> <a href="https://www.amazon.com/review/RPM8PHI65BIBF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8" target="_blank" > <em><b>Read my full flashlight review here</b></em></a></p>'
   },
   {
     title:       'Really affordable Sonicare Toothbrush Review',
@@ -23,7 +23,7 @@ let rawData = [
     author:      'Lacey Fredrickson',
     urlLink:   'https://www.amazon.com/review/R6HLNKEM1WZEF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8',
     publishedOn: '2018-02-23',
-    body:        '<p>Hey guys, I think my Sonicare Diamond is going out. I saw a DEAL for a new Sonicare. I bought it, had it gifted to me for Christmas. To my amazement, it cleans my teeth as well as the Sonicare Diamond, at one-seventh of the price! </p><p>   <a href="https://www.amazon.com/review/R6HLNKEM1WZEF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8" target="_blank" > <em>Read my full review here</em> </a></p>'
+    body:        '<p>Hey guys, I think my Sonicare Diamond is going out. I saw a DEAL for a new Sonicare. I bought it, had it gifted to me for Christmas. To my amazement, it cleans my teeth as well as the Sonicare Diamond, at one-seventh of the price! <br> <br>  <a href="https://www.amazon.com/review/R6HLNKEM1WZEF/ref=cm_cr_srp_d_rdp_perm?ie=UTF8" target="_blank" > <em><b>Read my full review here</b></em> </a></p>'
   },
   {
     title:       'Black and White Buffalo Check Flannel for Me',
@@ -31,7 +31,7 @@ let rawData = [
     author:      'Lacey Fredrickson',
     urlLink:   'https://www.amazon.com/review/R3BJ3BPDMG74N4/ref=cm_cr_srp_d_rdp_perm?ie=UTF8',
     publishedOn: '2018-02-23',
-    body:        '<p>I saw this flannel on What Kristin Found, and I wanted one to re-create her outfit. I ordered a bit large, but it was so impressive and warm, it’s one of m new favorite items. </p><p><a href="https://www.amazon.com/review/R3BJ3BPDMG74N4/ref=cm_cr_srp_d_rdp_perm?ie=UTF8" target="_blank" ><em>Read my full review here</em> </a></p>'
+    body:        '<p>I saw this flannel on What Kristin Found, and I wanted one to re-create her outfit. I ordered a bit large, but it was so impressive and warm, it’s one of m new favorite items. <br> <br> <a href="https://www.amazon.com/review/R3BJ3BPDMG74N4/ref=cm_cr_srp_d_rdp_perm?ie=UTF8" target="_blank" ><em><b>Read my full review here</b></em> </a></p>'
   },
   {
     title:       'That Babyproofing Life',
@@ -39,7 +39,7 @@ let rawData = [
     author:      'Lacey Fredrickson',
     urlLink:   'https://www.amazon.com/review/R3BRD0WLY66OHA/ref=cm_cr_srp_d_rdp_perm?ie=UTF8',
     publishedOn: '2018-02-21',
-    body:        '<p>OWith an active 9 month old, it was time to keep him out of the cupboard. Particularly because he was opening drawers and doors, flinging items around the kitchen. The first baby proofing set we got from my mother-in-law didn’t work, because our cupboards wouldn’t fit the latch. Someone suggested magnetic locks, but the first set we got from our neighborhood Buy Nothing required the locks to be screwed in. We resorted to buying magnetic locks on Amazon and only regret waiting. </p><p><a href="https://www.amazon.com/review/R3BRD0WLY66OHA/ref=cm_cr_srp_d_rdp_perm?ie=UTF8" target="_blank" ><em>Read my full review here</em></a></p>'
+    body:        '<p>With an active 9 month old, it was time to keep him out of the cupboard. Particularly because he was opening drawers and doors, flinging items around the kitchen. The first baby proofing set we got from my mother-in-law didn’t work, because our cupboards wouldn’t fit the latch. Someone suggested magnetic locks, but the first set we got from our neighborhood Buy Nothing required the locks to be screwed in. We resorted to buying magnetic locks on Amazon and only regret waiting. <br> <br> <a href="https://www.amazon.com/review/R3BRD0WLY66OHA/ref=cm_cr_srp_d_rdp_perm?ie=UTF8" target="_blank" ><em><b>Read my full review here</b></em></a></p>'
   },
   {
     title:       'Baby Aston Comes Home',
